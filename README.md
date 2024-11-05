@@ -1,5 +1,6 @@
 
 # CSR4mBART
+**News: Our work has been accepted for publication in Engineering Applications of Artificial Intelligence (EAAI).**
 
 Code of our paper [Bridging Cross-Lingual Gaps During Leveraging the Multilingual Sequence-to-Sequence Pretraining for Text Generation and Understanding](https://arxiv.org/abs/2204.07834)
 
