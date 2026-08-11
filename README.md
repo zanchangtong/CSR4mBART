@@ -1,4 +1,5 @@
 
+
 # CSR4mBART
 **News: Our work has been accepted for publication in Engineering Applications of Artificial Intelligence (EAAI).**
 
@@ -36,7 +37,7 @@ We follow [mBART](https://github.com/pytorch/fairseq/blob/master/examples/mbart/
 
 ## Evaluate
 
-- `bash scripts/evaluate.sh $checkpoint ${SRC} ${TGT}`
+- `bash scripts/evaluate.sh $checkpoint $SRC_LANG $TGT_LANG`
 
 ## Reference
 ```
